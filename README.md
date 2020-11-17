@@ -1,5 +1,5 @@
 # Opencv-Sketching-an-image
 This is a program in which an image is converted to a sketched image of itself
 ##Screenshots
-![INPUT](/images/input.png)
-![OUTPUT](/images/output.png)
+![INPUT](https://github.com/somsagar07/Opencv-Sketching-an-image/blob/main/image/input.JPGg)
+![OUTPUT](https://github.com/somsagar07/Opencv-Sketching-an-image/blob/main/image/output.JPG)
